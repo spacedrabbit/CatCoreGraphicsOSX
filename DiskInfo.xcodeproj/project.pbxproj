@@ -45,6 +45,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1466A17E1D31F2F2001DD56F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				941B7C8E1C7EB28F007DB08F /* Main.storyboard */,
+				941B7C8C1C7EB28F007DB08F /* Assets.xcassets */,
+				941B7C911C7EB28F007DB08F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		941B7C7C1C7EB28F007DB08F = {
 			isa = PBXGroup;
 			children = (
@@ -70,9 +80,7 @@
 				946F511E1C81E16400E8849D /* Extensions */,
 				946F511F1C81E17000E8849D /* OutlineView DS & Delegate */,
 				946F51211C81E19900E8849D /* Views */,
-				941B7C8E1C7EB28F007DB08F /* Main.storyboard */,
-				941B7C8C1C7EB28F007DB08F /* Assets.xcassets */,
-				941B7C911C7EB28F007DB08F /* Info.plist */,
+				1466A17E1D31F2F2001DD56F /* Supporting Files */,
 			);
 			path = DiskInfo;
 			sourceTree = "<group>";
